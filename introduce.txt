@@ -1,0 +1,11 @@
+Background
+ 
+Over the past years, air pollution has become progressively more severe in many large cities, such as Beijing. In 2011,  an article in the Los Angeles Times cited Dane Westerdahl, an air quality expert from Cornell University, describing the air quality of Beijing as 'downwind from a forest fire'. Among different air pollutants, air particles, or Particulate Matters (PM), are one of the deadliest forms. Particles with a diameter of 2.5 ��m or less (called PM2.5) can penetrate deeply into human lungs and enter blood vessels, causing DNA mutations, cancer, central neural system damage, and premature death.
+ 
+Existing biomedical research demonstrates that, once inhaled, PM2.5 can hardly be self-cleaned by the human immune system. Therefore, accurately monitoring and predicting the concentration of PM2.5 and other air particles have become increasingly crucial. With precise predictions of air pollution levels, the public and governments can respond with appropriate decisions, such as closing schools and discouraging outdoor activities, to greatly mitigate the harmful consequences of air pollution.
+ 
+Task and Evaluation
+ 
+Participants are requested to predict concentration levels of several pollutants, include PM2.5, over the coming 48 hours for two cities: Beijing, China, and London, UK. On each day throughout the competition, air quality data and meteorological data for both cities will be provided on the hourly basis. For example, on May 14, the participants will be able to access historical data up to May 14 (including), and will have to predict the pollution level for May 15 and 16. Over a period of 24 hours (by 23:59 UTC), each team will be allowed to make no more than 3 submissions to predict 48 hours of air quality results, starting from 0:00 UTC of the next day. You can more details on the submission API and the submission file format on the 'data' page or in this tutorial.
+link:
+https://biendata.com/competition/kdd_2018/
